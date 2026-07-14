@@ -222,3 +222,4 @@ __pycache__/
 *.png
 *.jpg
 data_clean_featured.csvn77xgfkl.part
+.DS_Store
